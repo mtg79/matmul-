@@ -1,0 +1,21 @@
+Group 12 review:
+
+What you think they did well (and why)?
+
+Your group has tried many good implementations and have some good
+tuning as well. It's good how you have documented both what worked as well
+as what didn't, which will make it easy to remember what should be 
+incorporated in the final design. 
+
+What you think they could improve on (and why)?
+
+For a lot of the testing, it seemed like you did a lot of tuning simply
+by modifiying parameters until you found something that "works." This 
+seems to have been fine for now, but for finding the sizes that work
+for the L1 and L2 caches, as you suggest doing for the future, it may
+be more efficient to make some calculations to deterimine what the 
+approximate size of a matrix that can fit in each cache.
+
+Anything else you would like to add?
+
+Looks good! Keep up the good work!
